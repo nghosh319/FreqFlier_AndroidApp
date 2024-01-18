@@ -1,2 +1,3 @@
 This is the Android GitHub push
-Use the readme file inside zip file "Full Project_P4_GHOSH_G01348658.zip"  for more detail
+use the below repo for full project
+https://github.com/nghosh319/Frequest_Flier_AndroidApp.git
